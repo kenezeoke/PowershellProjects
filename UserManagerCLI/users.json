@@ -1,0 +1,22 @@
+[
+  {
+    "Username": "Alice",
+    "Password": "Hello",
+    "Email": "hey@yahoo.com"
+  },
+  {
+    "Username": "John",
+    "Password": "Hello",
+    "Email": "heya@yahoo.com"
+  },
+  {
+    "Username": "JohnDoe",
+    "Password": null,
+    "Email": "john@demo.com"
+  },
+  {
+    "Username": "JohnnyStorm",
+    "Password": "01000000d08c9ddf0115d1118c7a00c04fc297eb010000002d3ed1b738907447a988b0f06fa8364f00000000020000000000106600000001000020000000d83d658d8637efd388940029ad2493af87730f33576796cdd320732189d7a689000000000e800000000200002000000095257eac2b4d083c63f3aa85e86bf070b4008cb9cbd0fe398a4d802830a21ceb10000000465a58266df0fe3d21b416ccb173303740000000e3af3ac2b1d57f5e509714ca775ec2dac66d4b0a44459daf276e03f746f49e83839a1e7a48fd2b0c476a93c29b8bf10d9d6cd9d58c8756f338968e61e2b26233",
+    "Email": "john@demo.com"
+  }
+]

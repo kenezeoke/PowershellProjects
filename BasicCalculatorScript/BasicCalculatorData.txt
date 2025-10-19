@@ -1,0 +1,8 @@
+Basic Calculator Data File
+
+Last operation: 3 + 4 = 7
+
+Last operation: 8 / 2 = 4
+
+Last operation: 10 + 5 = 15
+
