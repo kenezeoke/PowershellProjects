@@ -52,6 +52,15 @@ switch ($Action) {
         Write-Host "Committing changes..."
         git -C $RepoPath commit -m "$CommitMessage"
 
+        $remote = git -C $RepoPath remote
+        if (-not $remote) {
+            Write-Host "No remote configured. Please add a remote first:"
+            Write-Host "git -C $RepoPath remote add origin <repo-url>"
+            exit 1
+        }
+
+
+
         Write-Host "Pushing changes to origin..."
         git -C $RepoPath push
 
