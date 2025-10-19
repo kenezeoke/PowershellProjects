@@ -63,7 +63,7 @@ switch ($Action) {
 
 
         Write-Host "Pushing changes to origin..."
-        git -C $RepoPath push -u origin 
+        git -C $RepoPath push -u origin master
 
         Write-Host "Changes pushed successfully."
     }
